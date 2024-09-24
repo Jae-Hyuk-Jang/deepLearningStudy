@@ -1,4 +1,4 @@
-# 밑바닥부터 시작하는 딥러닝 스터디
+# $\textcolor{yellow}{Depp\ Learning\ from\ Scratch}$
 
 
 > $\textsf{\color{#f5750e}{chapter1 헬로 파이썬}}$ 
