@@ -13,11 +13,11 @@
 
 > $\textsf{\color{#fbbc05}{chapter6 학습 관련 기술들}}$
 
->  $\textsf{\color{#f5750e}{chapter7 합성곱 신경망(CNN}}$
+>  $\textsf{\color{#f5750e}{chapter7 합성곱 신경망(CNN)}}$
 
-> $\textsf{\color{#4285f4}{chapter8 딥러닝}}$
+> $\textsf{\color{#FE2EF7}{chapter8 딥러닝}}$
 
-> $\textsf{\color{#ea4335}{APPENDIX A Softmax-with-Loss 계층의 계산 그래프}}$
+> $\textsf{\color{#D8F781}{APPENDIX A Softmax-with-Loss 계층의 계산 그래프}}$
 
 
 
