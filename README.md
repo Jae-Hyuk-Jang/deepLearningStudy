@@ -3,4 +3,4 @@
 
 > $\textsf{\color{#f5750e}{chapter1 헬로 파이썬}}$ 
 
->chapter2 퍼셉트론 
+> $\textsf{\color{#4285f4}{chapter2 퍼셉트론}}$  
